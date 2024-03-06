@@ -1,1 +1,1 @@
-Códigos feito na aula de desenvolvimento mobile.
+Códigos desenvolivmentos na aula de desenvolvimento mobile.
